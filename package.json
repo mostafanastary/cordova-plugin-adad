@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-adad",
+  "version": "1.0.0",
+  "description": "Show Adad Banner and Interstitial Ad",
+  "cordova": {
+    "id": "cordova-plugin-adad",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladesign/cordova-plugin-adad.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ad",
+    "adad",
+    "monetisation",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+"devDependencies": {
+    "cordova": ">=3.0.0"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Milad Mohammadi",
+  "license": "MilaDesign",
+  "bugs": {
+    "url": "https://github.com/miladesign/cordova-plugin-adad/issues"
+  },
+  "homepage": "https://github.com/miladesign/cordova-plugin-adad#readme"
+}
